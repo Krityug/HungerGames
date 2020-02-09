@@ -8,5 +8,5 @@ This game mode is currently under construction. Some of the basics features has 
 
 
 
-Beta Jar - There is an BETA Jar uploaded just for testing purposes. The game mode is a trademark of HypexMC Network LLC™. 
+Beta Jar - There is an BETA Jar uploaded just for testing purposes inside the link-to-jar.md file. Please open the file and read the intructions to download. The game mode is a trademark of HypexMC Network LLC™. 
           
