@@ -1,0 +1,6 @@
+name: HungerGames
+version: 2.0.0-SNAPSHOT
+main: org.pyacademy.HungerGames
+api-version: 1.13
+authors: [Krityug]
+description: Hunger Games 2.0 has been released.
