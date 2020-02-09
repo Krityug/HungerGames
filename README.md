@@ -5,6 +5,9 @@ This game mode is currently under construction. Some of the basics features has 
 2. /profile - Profile Menu
 3. /quests slayer - Opens Slayer Quest Menu
 4. set classes - Let's you set classes.
+5. Health Bar and Hunger Bar won't go down. 
+6. Health Bar won't get effected by any kind of doamage.
+7. Knowback will also not be taken on any kind of damage.
 
 
 
